@@ -63,7 +63,7 @@ Wir kommen schnell voran, also schauen Sie regelmäßig vorbei, um die Fortschri
 Charon ist ein verteilter Validator, d.h. seine Hauptaufgabe ist die Durchführung von Validierungsaufgaben.
 Die folgende Tabelle zeigt, welche Clients welche Aufgaben in einem öffentlichen Testnetz erbracht haben und welche sich noch im Aufbau befinden (🚧 )
 
-| Dienst  \ Client                        |                      Teku                      |                    Lighthouse                    | Lodestar | Nimbus Vouch | Prysm |
+| Dienst  \ Client                        |                      Teku                      |                    Lighthouse                    | Lodestar | Nimbus|Vouch | Prysm |
 |--------------------------------------|:----------------------------------------------:|:------------------------------------------------:|:--------:|:------:|:-----:|:-----:|
 | _Attestation_                        |                       ✅                        |                        ✅                         |    🚧    |   🚧   |  ✅   |  🚧   |
 | _Attestation Aggregation_            |                       🚧                       |                        🚧                        |    🚧    |   🚧   |  🚧   |  🚧   |
